@@ -1,3 +1,12 @@
+/*
+    Name wahab 
+    Father name  khudai rahim
+    class Bscs 1samister *
+    /
+
+
+
+
 #include<stdio.h>
 int isprime(int num) {
     if (num < 2) {
